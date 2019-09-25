@@ -1,0 +1,2 @@
+# nmdbot
+Nomads Discord Bot
